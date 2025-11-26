@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @ZumiYumi
-- 👀 I’m interested in Security Researching, CyberSecurity, and Programming
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Security Research Programs
-- 📫 How to reach me: On discord at zumiyumi
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have 4 cats :)
+I'm ZumiYumi a Security Researcher, feel free to reach out to me on discord @zumiyumi
