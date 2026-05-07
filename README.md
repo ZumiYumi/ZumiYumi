@@ -1,1 +1,1 @@
-I'm ZumiYumi a Security Researcher, feel free to reach out to me on discord @zumiyumi
+I'm ZumiYumi a Senior Pentester, feel free to reach out to me on discord @zumiyumi
